@@ -31,4 +31,10 @@ The application uses a modern React + Vite frontend and a Python FastAPI backend
 - CSV / JSON financial datasets (NIFTY market data)
 
 
+# Prerequisites
+
+- Node.js (v18 or higher)
+- Python 3.9+
+- pip (Python package manager)
+
 
